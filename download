@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+heroi.json
+arena.db
+ranking.json
